@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.auroraos.test_env
+Exec=/usr/bin/ru.auroraos.test_env
+Name=Template
+Name[ru]=Шаблон
+
+[X-Application]
+Permissions=UserDirs
+OrganizationName=ru.auroraos
+ApplicationName=test_env
+ExecDBus=/usr/bin/ru.auroraos.test_env
